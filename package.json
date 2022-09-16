@@ -1,7 +1,7 @@
 {
-	"name": "azamibot-md",
-	"version": "6.0.0",
-	"description": "WhatsApp Bot - Recoded by Zerenity",
+	"name": "AlpxnCOPX",
+	"version": "6.0.3",
+	"description": "WhatsApp Bot - Recoded by +6289699565795",
 	"main": "index.js",
 	"type": "module",
 	"directories": {
@@ -28,7 +28,7 @@
 	],
 	"homepage": "https://github.com/clicknetcafe/azamibot-md",
 	"author": {
-		"name": "BochilGaming"
+		"name": "AlfinQwe"
 	},
 	"repository": {
 		"type": "git",
