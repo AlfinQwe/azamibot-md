@@ -24,7 +24,9 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 **MAX BOT : 4**
 
 #### Deploy to Heroku (Error)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/clicknetcafe/azamibot-md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlfinQw
+
+e/azamibot-md)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
